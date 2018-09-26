@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Abyss Watchers",
+        "image": "./images/4337-lords-of-cinder_-abyss-.png"
+    },
+    {
+        "id": 2,
+        "name": "Ancient Wyvern",
+        "image": "./images/Ancient_wyvern_trophy.png"
+    },
+    {
+        "id": 3,
+        "name": "Crystal Sage",
+        "image": "./images/crystal_sage_trophy.PNG"
+    },
+    {
+        "id": 4,
+        "name": "Curse-Rotted Greatwood",
+        "image": "./images/curse-rotted_greatwood_trophy.PNG"
+    },
+    {
+        "id": 5,
+        "name": "Dancer of the Boreal Valley",
+        "image": "./images/dancer-of-the-boreal-valley.PNG"
+    },
+    {
+        "id": 6,
+        "name": "Siegward of Catarina",
+        "image": "./images/dark_souls_catarina_knight.jpg"
+    },
+    {
+        "id": 7,
+        "name": "High Lord Wolnir",
+        "image": "./images/high_lord_wolnir_trophy.PNG"
+    },
+    {
+        "id": 8,
+        "name": "Gundry",
+        "image": "./images/iudex_gundry_trophy.PNG"
+    },
+    {
+        "id": 9,
+        "name": "High King Lothric",
+        "image": "./images/Lothric_trophy.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Nameless King",
+        "image": "./images/Nameless-King.PNG"
+    },
+    {
+        "id": 11,
+        "name": "Vordt of the Boreal Valley",
+        "image": "./images/vordt_of_the_boreal_valley_trophy.PNG"
+    },
+    {
+        "id": 12,
+        "name": "Yhorm The Giant",
+        "image": "./images/yhorm.png"
+    }
+]
